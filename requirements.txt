@@ -1,0 +1,9 @@
+altair
+pandas
+numpy
+tensoflow
+keras
+streamlit
+seaborn
+sklearn
+matplotlib
